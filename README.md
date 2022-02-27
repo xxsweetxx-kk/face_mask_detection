@@ -1,4 +1,4 @@
-# FacemaskDetector
+# Face Mask Detector
 <h1>Description</h1>
 Hi welcome to my new deep learning project "Face Mask Detector". This project as the name suggests can predict if the person is wearing the mask correctly or not in front of the webcam.<br>
 This project comprise of two python scripts namely,<br>
